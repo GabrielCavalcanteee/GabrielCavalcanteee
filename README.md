@@ -3,7 +3,6 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em adquirir habilidades técnicas e práticas na criação e manutenção de software, estou sempre buscando aprender novas tecnologias e tendências do mercado.
 
-![GabrielCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcavalcanteee&show_icons=true&theme=radical)
 
 ## Tecnologias que atualmente uso 💻
 
